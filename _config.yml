@@ -41,11 +41,14 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
   - title: About
     url: /about
 
+  - title: Blog
+    url: /archive
+
   - title: GSoC'22
     url: /gsoc
+
+  - title: Contact
+    url: /contact
