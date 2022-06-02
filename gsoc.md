@@ -5,8 +5,14 @@ title: GSoC'22
 
 # Google Summer Of Code 2022
 
-<!-- ![gsoc_icon](/assets/Gsoc_icon.png) -->
-<img src="/assets/Gsoc_icon.png" alt="gsoc_icon" width="200"/>
+<div class="row" style="float: left">
+  <div >
+    <img src="/assets/Gsoc_icon.png" alt="gsoc_icon" width="200"/>
+  </div>
+  <div>
+    <img src="/assets/Gsoc_icon.png" alt="gsoc_icon" width="200"/>
+  </div>
+</div>
 
 I have been seleted as a GSoC contributor in the organization [libcamera](https://libcamera.org/) for the project 'Improve Gstreamer element to add support for properties'.
 
