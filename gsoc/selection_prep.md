@@ -13,48 +13,7 @@ Hello, I am Rishikesh applying as a GSoC student this year in the organization l
 
  The libcamera has the following camera stack 
 
- ```
-  a c /    +-------------+  +-------------+  +-------------+  +-------------+
- p a |    |   Native    |  |  Framework  |  |   Native    |  |   Android   |
- p t |    |    V4L2     |  | Application |  |  libcamera  |  |   Camera    |
- l i |    | Application |  | (gstreamer) |  | Application |  |  Framework  |
- i o \    +-------------+  +-------------+  +-------------+  +-------------+
-   n             ^                ^                ^                ^
-                 |                |                |                |
- l a             |                |                |                |
- i d             v                v                |                v
- b a /    +-------------+  +-------------+         |         +-------------+
- c p |    |    V4L2     |  |   Camera    |         |         |   Android   |
- a t |    |   Compat.   |  |  Framework  |         |         |   Camera    |
- m a |    |             |  | (gstreamer) |         |         |     HAL     |
- e t \    +-------------+  +-------------+         |         +-------------+
- r i             ^                ^                |                ^
- a o             |                |                |                |
-   n             |                |                |                |
-     /           |         ,................................................
-     |           |         !      :            Language             :      !
- l f |           |         !      :            Bindings             :      !
- i r |           |         !      :           (optional)            :      !
- b a |           |         \...............................................'
- c m |           |                |                |                |
- a e |           |                |                |                |
- m w |           v                v                v                v
- e o |    +----------------------------------------------------------------+
- r r |    |                                                                |
- a k |    |                           libcamera                            |
-     |    |                                                                |
-     \    +----------------------------------------------------------------+
-                         ^                  ^                  ^
- Userspace               |                  |                  |
------------------------- | ---------------- | ---------------- | ---------------
- Kernel                  |                  |                  |
-                         v                  v                  v
-                   +-----------+      +-----------+      +-----------+
-                   |   Media   | <--> |   Video   | <--> |   V4L2    |
-                   |  Device   |      |  Device   |      |  Subdev   |
-                   +-----------+      +-----------+      +-----------+
- ```
-
+ 
 
 
 ## **Project-idea: Improve GStreamer element to add support for properties**
