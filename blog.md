@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Archive
+title: Blogs
 ---
+# Blogs
 
-
+---

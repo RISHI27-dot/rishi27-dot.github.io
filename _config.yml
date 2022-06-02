@@ -45,7 +45,7 @@ nav:
     url: /about
 
   - title: Blog
-    url: /archive
+    url: /blog
 
   - title: GSoC'22
     url: /gsoc
