@@ -7,4 +7,5 @@ title: home
 |---------|-------------------------|
 | [week0.1](/gsoc/weeks/week0.1) |21 May 2022 - 27 May 2022 
 | [week0.2](/gsoc/weeks/week0.2) |28 May 2022 - 2 June 2022 
+| [week0.3](/gsoc/weeks/week0.3)  |3 June 2022 - 9 June 2022 
 

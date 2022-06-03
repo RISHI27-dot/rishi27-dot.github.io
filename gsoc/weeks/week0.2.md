@@ -1,6 +1,6 @@
 ---
 layout: default
-title: week 0.1
+title: week 0.2
 ---
 
 |Date        ||Day          ||Update
