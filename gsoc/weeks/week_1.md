@@ -8,5 +8,4 @@ title: home
 12 June 2022 ||Sunday       ||  Implementing colorspace integration.
 13 June 2022 ||Monday       || Was travelling, Did nothing. 
 14 June 2022 ||Tuesday      || Defined the functions and the maps required to map colorspace and colorimetry.
-
-<!-- 15 June 2022 ||Wednesday       || ---  -->
+15 June 2022 ||Wednesday       || Working on colorspace integration.
