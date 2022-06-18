@@ -19,4 +19,5 @@ title: home
 |Week                           |Dates                      |
 |-------------------------------|---------------------------|
 | [week 1](/gsoc/weeks/week_1)  |12 June 2022 - 16 June 2022 
+| [week 2](/gsoc/weeks/week_2)  |17 June 2022 - 22 June 2022 
 
