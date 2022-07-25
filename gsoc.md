@@ -25,5 +25,6 @@ I have written about my journey befor the GSoC selection in [this](/gsoc/selecti
 <br>
 <br>
 
+[GSoC 2022 Progress Tracker](/gsoc/home) 
+
 [GSoC 2022 Midway Blog](/midway_blog/home) 
-<!-- [GSoC 2022 Progress Tracker](/gsoc/home)  -->

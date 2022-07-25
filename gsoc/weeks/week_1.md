@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: week 1
 ---
 
 |Date        ||Day          ||Update
