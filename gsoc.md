@@ -24,4 +24,5 @@ To learn more about the project I will be workin in summer of 2022 [visit](https
 I have written about my journey befor the GSoC selection in [this](/gsoc/selection_prep) blog. Do read it :).
 <br>
 <br>
-[GSoC 2022 Progress Tracker](/gsoc/home) 
+
+<!-- [GSoC 2022 Progress Tracker](/gsoc/home)  -->
