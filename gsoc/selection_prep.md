@@ -11,11 +11,6 @@ Hello, I am Rishikesh applying as a GSoC student this year in the organization l
 ## what is libcamera?
  libcamera is an open source camera stack for many platforms with a core userspace library, and support from the Linux kernel APIs and drivers already in place. It aims to control the complexity of embedded camera hardware by providing an intuitive API and method of separating untrusted vendor code from the open source core.
 
- The libcamera has the following camera stack 
-
- 
-
-
 ## **Project-idea: Improve GStreamer element to add support for properties**
 
 ### **Project idea introduction.**
