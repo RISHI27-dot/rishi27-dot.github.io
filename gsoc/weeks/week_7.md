@@ -5,10 +5,10 @@ title: week 7
 
 |Date        ||Day          ||Update
 | -----------|-|------------|-|-------------|
-23 July 2022 ||Saturday        ||  Did nothing.
-24 July 2022 ||Sunday        ||  Did nothing.
-25 July 2022 ||Mondnay        ||  Did nothing.
-26 July 2022 ||Tuesday        ||  Did nothing.
-27 July 2022 ||Wednesday        ||  Did nothing.
-28 July 2022 ||Thursday        ||  Did nothing.
-29 July 2022 ||Friday        ||  Did nothing.
+23 July 2022 ||Saturday        ||  Worked upon incorporatin the changes discussed.
+24 July 2022 ||Sunday        ||  Worked upon incorporatin the changes discussed. Shared a final github branch with umang.
+25 July 2022 ||Mondnay        ||  Tested the new branch extensively.
+26 July 2022 ||Tuesday        ||  Worked upon the multiple colorimetry case. Wrote midway throught GSoC blog.
+27 July 2022 ||Wednesday        ||  Happy Birthday !!
+28 July 2022 ||Thursday        ||  
+29 July 2022 ||Friday        ||  
