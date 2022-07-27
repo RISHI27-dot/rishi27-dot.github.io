@@ -45,6 +45,8 @@ The blog dedicated for the pre-gsoc selection can be found [here](https://rishi2
 ## <span style="color:#C39BD3 "> The Coding Period </span>
 The coding period for GSoC’22 started on 12th of June. There were many aspects of the stream that could be controlled. Two major properties that needed support in the libcamera gstreamer element are colorimetry and framerate. Umang suggested that we must first work with the colorimetry as that was relatively easy and straight forward than the framerate. I made an action plan for adding the colorimetry support and shared it with the mentors. After getting the approval form Umang I started coding.  Every week I used to have a weekly sync meeting with the mentors to share the progress, clear the blockers and list down the pending actions.
 
+[Progress Tracker](https://rishi27-dot.github.io/gsoc/home/)
+
 ### <span style="color:#F1948A "> Colorimetry Support </span>
 
 In the GStreamer colorimetry consist of four fields namely primaries, color matrix, transfer function and range. GStreamer elements negotiate colorimetry in the form of strings through the caps. A downstream element will request single or multiple colorimetry through the caps and libcamera will provide a stream with the requested colorimetry if it can be supported by the camera hardware. Following examples show how colorimetry can be requested by the downstream elements.
