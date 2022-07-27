@@ -71,6 +71,6 @@ In this case the multiple colorimetry options are requested in preference order 
 
 # <span style="color:#5DADE2"> Summary </span>
 
-I would like to thank Google Summer of Code and libcamera for giving me this opportunity to contribute to the open source community. I have learned a lot of new things and boosted my skills in the GSoC journey so far and I hope to learn more. 
+I would like to thank Google Summer of Code and libcamera for giving me this opportunity to contribute to the open source community. I have learned a lot of new things and boosted my skills in the GSoC journey so far and I hope to learn more.
 
 
