@@ -20,7 +20,7 @@ Device enumeration, Capabilities enumeration, Multi stream support, Controlling 
 
 # <span style="color:#5DADE2"> Project - Improve GStreamer element to add support for properties </span>
 
-Libcameras offers a source element in the GStreamer pipeline.The GStreamer element allows libcamera to be used as a video source in the GStreamer pipeline. 
+Libcameras offers a video source element in the GStreamer pipeline.The GStreamer element allows libcamera to be used as a video source in the GStreamer pipeline. 
 
 
 <div style="background-color:#566573;padding:20px;border-style: dotted">
@@ -33,7 +33,7 @@ The aim of this project is to add support to the libcamera gstreamer element so 
 
 # <span style="color:#5DADE2"> My experience as a GSoC contributor in libcamera </span>
 
-This is the first time I am contributing to an open source project. Like most of the people who are new to the open source world I was intimidated by the huge codebase of libcamera. Like all other GStreamer elements libcamerasrc uses the GObject programming model along with GLib.
+This is the first time I am contributing to an open source project. Like most of the people who are new to the open source world I was intimidated by the huge codebase of libcamera. Like all other GStreamer elements libcamerasrc uses the <span style="color:#9CF110 "> GObject </span> programming model along with <span style="color:#9CF110 "> GLib </span>
 At first I found it quite difficult to study the code base. I learned how object orientation is done in using the GObject, following this I studied how the libcamera gstreamer element uses the GObject and GLib along with the libcamera exposed API to make a source element in the gstreamer pipeline. After understanding what all the functions do by looking at the  GStreamer upstream documentation, GObject and GLib documentation for API reference I got a clear picture of the code base. My mentor Umang and Vedant helped me a lot in understanding the code base and clearing the doubts I had.
 
 
@@ -43,7 +43,7 @@ Most of the time in the student application period was spent on doing the warmup
 The blog dedicated for the pre-gsoc selection can be found [here](https://rishi27-dot.github.io/gsoc/selection_prep/).
 
 ## <span style="color:#C39BD3 "> The Coding Period </span>
-The coding period for GSoC’22 started on 12th of June. There were many aspects of the stream that could be controlled. Two major properties that needed support in the libcamera gstreamer element are colorimetry and framerate. Umang suggested that we must first work with the colorimetry as that was relatively easy and straight forward than the framerate. I made an action plan for adding the colorimetry support and shared it with the mentors. After getting the approval form Umang I started coding.  Every week I used to have a weekly sync meeting with the mentors to share the progress, clear the blockers and list down the pending actions.
+The coding period for GSoC’22 started on 12th of June. There were many aspects of the stream that could be controlled. Two major properties that needed support in the libcamera gstreamer element are colorimetry and framerate. Umang suggested that we must first work with the colorimetry as that was relatively easy and straight forward than the framerate. I made an action plan for adding the colorimetry support and shared it with the mentors. After getting the approval form Umang I started coding.  Every week I used to have a weekly sync meeting with the mentors to share the progress, clear the blockers and list down the pending actions. I logged the progress in the community bonding period and Coding period in the Progress Tracker.
 
 [Progress Tracker](https://rishi27-dot.github.io/gsoc/home/)
 
