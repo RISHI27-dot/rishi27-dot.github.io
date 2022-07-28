@@ -49,7 +49,7 @@ The coding period for GSoC’22 started on 12th of June. There were many aspects
 
 ### <span style="color:#F1948A "> Colorimetry Support </span>
 
-In the GStreamer colorimetry consist of four fields namely primaries, color matrix, transfer function and range. GStreamer elements negotiate colorimetry in the form of strings through the capabilities. A downstream element will request single or multiple colorimetry through the caps and libcamera will provide a stream with the requested colorimetry if it can be supported by the camera hardware. Following examples show how colorimetry can be requested by the downstream elements.
+In the GStreamer colorimetry consist of four fields namely primaries, color matrix, transfer function and range. GStreamer elements negotiate colorimetry in the form of strings through the capabilities. A downstream element will request single or multiple colorimetry through the caps and libcamera will provide a stream with the requested colorimetry if it can be supported by the camera hardware. Following examples show how colorimetry can be requested in the GStreamer pipeline using [capsfilter](https://gstreamer.freedesktop.org/documentation/coreelements/capsfilter.html?gi-language=c).
 
 Single colorimetry
 ```
@@ -70,7 +70,7 @@ Downstream elements can also specify the colorimetry they prefer/want through th
 
 # <span style="color:#5DADE2"> Ongoing work </span>
 
-* Testing the single colorimetry support.
+* Testing single colorimetry support.
 * Multiple colorimetry support.
 * Framerate negotiation support.
 
