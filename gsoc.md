@@ -24,7 +24,13 @@ To learn more about the project I will be workin in summer of 2022 [visit](https
 I have written about my journey befor the GSoC selection in [this](/gsoc/selection_prep) blog. Do read it :).
 <br>
 <br>
+<br>
+<br>
+<div style="background-color:#566573;padding:20px;border-style: dotted">
+	<a href="/gsoc/home.md"> GSoC'22 Progress Tracker </a>
+</div>
+<br>
+<div style="background-color:#566573;padding:20px;border-style: dotted">
+	<a href="/midway_blog/home.md">GSoC'22 Midway Blog</a>
+</div>
 
-[GSoC 2022 Progress Tracker](/gsoc/home) 
-
-[GSoC 2022 Midway Blog](/midway_blog/home) 
