@@ -27,10 +27,10 @@ I have written about my journey befor the GSoC selection in [this](/gsoc/selecti
 <br>
 <br>
 <div style="background-color:#566573;padding:20px;border-style: dotted">
-	<a href="/gsoc/home.md"> GSoC'22 Progress Tracker </a>
+	<a href="/gsoc/home"> GSoC'22 Progress Tracker </a>
 </div>
 <br>
 <div style="background-color:#566573;padding:20px;border-style: dotted">
-	<a href="/midway_blog/home.md">GSoC'22 Midway Blog</a>
+	<a href="/midway_blog/home">GSoC'22 Midway Blog</a>
 </div>
 
