@@ -33,4 +33,8 @@ I have written about my journey befor the GSoC selection in [this](/gsoc/selecti
 <div style="background-color:#566573;padding:20px;border-style: dotted">
 	<a href="/midway_blog/home">GSoC'22 Midway Blog</a>
 </div>
+<br>
+<div style="background-color:#566573;padding:20px;border-style: dotted">
+	<a href="/final_report/home">GSoC'22 Final Report</a>
+</div>
 
