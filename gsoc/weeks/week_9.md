@@ -5,10 +5,10 @@ title: week 9
 
 |Date        ||Day          ||Update
 | -----------|-|------------|-|-------------|
-6 August 2022 ||Saturday        ||  Worked upon incorporatin the changes discussed.
-7 August 2022 ||Sunday        ||  Worked upon incorporatin the changes discussed.
-8 August 2022 ||Monday        ||  Worked upon incorporatin the changes discussed. Shared a final github branch with umang.
-9 August 2022 ||Tuesday        ||  Tested the new branch extensively.
-10 August 2022 ||Wednesday        ||  Worked upon the multiple colorimetry case. Wrote midway throught GSoC blog.
-11 August 2022 ||Thursday        ||  Happy Birthday !!
-12 August 2022 ||Friday        || Was travelling, Did nothing.
+6 August 2022 ||Saturday        || Multiple coloriemtry case.
+7 August 2022 ||Sunday        ||  Sent a patch for multiple colorimetry 
+8 August 2022 ||Monday        ||  Worked upon incorporating the changes in the review.
+9 August 2022 ||Tuesday        || Sent version two of the patch for multiple coloriemtry.
+10 August 2022 ||Wednesday        || Did nothing.
+11 August 2022 ||Thursday        || Worked on version 3 for multiple coloriemtry. Has sync meet with umang and discussed on comparing colorspace instead of colorimetry.
+12 August 2022 ||Friday        || Worked on version 3 for multiple coloriemtry support. 
