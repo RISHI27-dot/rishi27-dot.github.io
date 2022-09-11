@@ -6,13 +6,21 @@ This is Google Summer of Code 2022 project under libcamera aimed at adding suppo
 * Adding framerate control and negotiation support to libcamera's GStreamer source element.
 
 ## <span style="color:#98D435"> Project Details </span>
+<hr>
 * Contributor Name: Rishikesh Donadkar
+<hr>
 * Mentors: Vedant Paranjape, uajain
+<hr>
 * Organization: libcamera
+<hr>
 * [Code](https://git.libcamera.org/libcamera/libcamera.git/)
+<hr>
 * [Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/WyqdLcia)
+<hr>
 * [Progress Log](/gsoc/home)
+<hr>
 * [Midway blog](/midway_blog/home)
+<hr>
 
 ## <span style="color:#98D435"> Overview </span>
 
