@@ -1,4 +1,3 @@
-# Improve GStreamer element to add support for properties
 
 This is Google Summer of Code 2022 project under libcamera aimed at adding support for the following:
 
