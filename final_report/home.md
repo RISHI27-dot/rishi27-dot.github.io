@@ -1,4 +1,5 @@
 # Improve GStreamer element to add support for properties
+
 This is Google Summer of Code 2022 project under libcamera aimed at achieving:
 
 * Adding colorimetry support to libcamera's GStreamer source element.
@@ -10,4 +11,5 @@ This is Google Summer of Code 2022 project under libcamera aimed at achieving:
 * Organization: libcamera
 * [Code](https://git.libcamera.org/libcamera/libcamera.git/)
 * [Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/WyqdLcia)
+* [Progress Log](/gsoc/home)
 * [Midway blog](/midway_blog/home)
