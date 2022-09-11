@@ -35,6 +35,7 @@ I have written about my journey befor the GSoC selection in [this](/gsoc/selecti
 </div>
 <br>
 <div style="background-color:#566573;padding:20px;border-style: dotted">
-	<a href="/final_report/home">GSoC'22 Final Report</a>
+	<a href="/gsoc/final_report_2022">GSoC'22 Final Report</a>
 </div>
+<br>
 
