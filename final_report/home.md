@@ -5,7 +5,7 @@ This is Google Summer of Code 2022 project under libcamera aimed at adding suppo
 * Adding colorimetry support to libcamera's GStreamer source element.
 * Adding framerate control and negotiation support to libcamera's GStreamer source element.
 
-## Project Details
+## <span style="color:#98D435"> Project Details </span>
 * Contributor Name: Rishikesh Donadkar
 * Mentors: Vedant Paranjape, uajain
 * Organization: libcamera
@@ -14,7 +14,7 @@ This is Google Summer of Code 2022 project under libcamera aimed at adding suppo
 * [Progress Log](/gsoc/home)
 * [Midway blog](/midway_blog/home)
 
-## Overview
+## <span style="color:#98D435"> Overview </span>
 
 Gstreamer is a pipeline based flexible and extensible mulitmedia framework. Libcamera offers a source element(libcamerasrc) for the GStreamer pipeline. The aim of this gsoc project is to add support for framerate and coloriemtry to libcamera's gstreamer element.
 
@@ -46,7 +46,8 @@ Usage
 ```
 
 ```
-## Contributions
+## <span style="color:#98D435"> Contributions </span>
+
 1.[Provide colorimetry <> ColorSpace mappings](https://git.libcamera.org/libcamera/libcamera.git/commit/?id=fc9783acc6083a59fae8bca1ce49635e59afa355)
 
 2.[Provide mulitple colorimetry support](https://patchwork.libcamera.org/patch/17174/)
