@@ -31,7 +31,7 @@ title: home
 | [week 11](/gsoc/weeks/week_11)  |20 Auguts 2022 - 26 August 2022 
 | [week 12](/gsoc/weeks/week_12)  |27 Auguts 2022 - 2 September 2022
 | [week 13](/gsoc/weeks/week_13)  |3 September 2022 - 9 September 2022
-| [week 14](/gsoc/weeks/week_14)  |10 Auguts 2022 - 12 September 2022
+| [week 14](/gsoc/weeks/week_14)  |10 September 2022 - 12 September 2022
 
 
 <!-- | [week 8](/gsoc/weeks/week_8)  |25 June 2022 - 30 June 2022  -->
