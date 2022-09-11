@@ -6,10 +6,9 @@ Hello visitor &#9996;, Welcome to my personal websit. I am Rishikesh Donadkar a 
 Feel free to go through the [blog](/blogs) I have writen in the blog section. <br>To learn more about me visit the [About](/about) section.
  -->
 
-
 # Improve GStreamer element to add support for properties
 
-This is Google Summer of Code 2022 project under libcamera aimed at achieving:
+This is Google Summer of Code 2022 project under libcamera aimed at adding support for the following:
 
 * Adding colorimetry support to libcamera's GStreamer source element.
 * Adding framerate control and negotiation support to libcamera's GStreamer source element.
@@ -25,15 +24,15 @@ This is Google Summer of Code 2022 project under libcamera aimed at achieving:
 
 ## Overview
 
-Gstreamer is a pipeline based flexible and extensible mulitmedia framework. Libcamera offers a source element(libcamerasrc) for the GStreamer pipeline. The aim of this gsoc project was to add support for framerate and coloriemtry to libcamera's gstreamer element.
+Gstreamer is a pipeline based flexible and extensible mulitmedia framework. Libcamera offers a source element(libcamerasrc) for the GStreamer pipeline. The aim of this gsoc project is to add support for framerate and coloriemtry to libcamera's gstreamer element.
 
-In Gstreamer pipleline differenet elements are linked to each other and negotiate and decide of formats of the data that will flow through the pipeline. This is done through capablites negotiation. Downstream suggests formats and the upstreame element decides on format that it can offer. Pads are the interfaces throught the elments are linked to each other. 
+In Gstreamer pipleline differenet elements are linked to each other and negotiate and decide of formats of the data that will flow through the pipeline. This is done through capablites negotiation. Downstream suggests formats and the upstreame element decides on format that it can offer. 
 
 ## <span style="color:#C39BD3 "> Adding colorimetry support to libcamera's GStreamer source element. </span>
  The following colorimmetry negotiation support were added to libcamerasrc.
 ### <span style="color:#F1948A "> Single Colorimetry Support </span>
 
-Colorimetry consist of 4 parameters namely primaries, transfer function, color matrix and range. With this functionality libcamera can negotiate the colorimetry. Appropriate coloriemtry is decided on the libcamera side by mapping the four identifiers to the corresponding identifiers in libcamera and decide on apporprialte colorspace corresponding the the colorimetry requestd by the neighbouring element in the gstreamer pipeline. The neighbouring element request the colorimetry it wants/prefers by exposing it on its pads. This patch only works with single colorimetry negotiation.
+Colorimetry consist of 4 parameters namely primaries, transfer function, color matrix and range. With this functionality libcamera can negotiate the colorimetry. Appropriate coloriemtry is decided in the libcamerasrc by mapping the four identifiers to the corresponding identifiers in libcamera and decide on apporprialte colorspace corresponding the the colorimetry requestd by the neighbouring element in the gstreamer pipeline. The neighbouring element request the colorimetry it wants/prefers by exposing it on its pads. This patch only works with single colorimetry negotiation.
 
 Usage
 ```

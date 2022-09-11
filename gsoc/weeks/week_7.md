@@ -12,5 +12,5 @@ title: week 7
 27 July 2022 ||Wednesday        ||  Happy Birthday !!
 28 July 2022 ||Thursday        || Was travelling, Did nothing.
 29 July 2022 ||Friday        ||  Worked upon the multiple colorimetry case.
-30 July 2022 ||Saturday || Did nothing.
+
 

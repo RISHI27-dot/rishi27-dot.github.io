@@ -25,6 +25,14 @@ title: home
 | [week 5](/gsoc/weeks/week_5)  |9 July 2022 - 15 July 2022 
 | [week 6](/gsoc/weeks/week_6)  |16 July 2022 - 22 July 2022 
 | [week 7](/gsoc/weeks/week_7)  |23 July 2022 - 29 July 2022 
+| [week 8](/gsoc/weeks/week_8)  |30 July 2022 - 5 August 2022 
+| [week 9](/gsoc/weeks/week_9)  |6 Auguts 2022 - 12 August 2022 
+| [week 10](/gsoc/weeks/week_10)  |13 Auguts 2022 - 19 August 2022 
+| [week 11](/gsoc/weeks/week_11)  |20 Auguts 2022 - 26 August 2022 
+| [week 12](/gsoc/weeks/week_12)  |27 Auguts 2022 - 2 September 2022
+| [week 13](/gsoc/weeks/week_13)  |3 September 2022 - 9 September 2022
+| [week 14](/gsoc/weeks/week_14)  |10 Auguts 2022 - 12 September 2022
+
 
 <!-- | [week 8](/gsoc/weeks/week_8)  |25 June 2022 - 30 June 2022  -->
 
