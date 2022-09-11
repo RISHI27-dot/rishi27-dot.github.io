@@ -51,4 +51,4 @@ Usage
 
 2.[Provide mulitple colorimetry support](https://patchwork.libcamera.org/patch/17174/)
 
-3.[Provide framerate support for libcamerasrc]()
+3.[Provide framerate support for libcamerasrc](https://patchwork.libcamera.org/patch/17307/)
