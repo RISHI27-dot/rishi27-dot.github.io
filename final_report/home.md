@@ -34,17 +34,17 @@ This is Google Summer of Code 2022 project under libcamera aimed at adding suppo
 
 ## <span style="color:#98D435"> Overview </span>
 
-Gstreamer is a pipeline based flexible and extensible multimedia framework. Libcamera offers a source element(libcamerasrc) for the GStreamer pipeline. The aim of this gsoc project is to add support for framerate and colorimetry to libcamera's gstreamer element.
+Gstreamer is a pipeline based flexible and extensible multimedia framework. Libcamera offers a source element (libcamerasrc) for the GStreamer pipeline. The aim of this gsoc project is to add support for framerate and colorimetry to libcamera's gstreamer element.
 
 In Gstreamer pipeline different elements are linked to each other and negotiate and decide on formats of the data that will flow through the pipeline. This is done through capabilities negotiation. Downstream suggests formats and the upstream element decides on the format that it can offer.  
 
 ## <span style="color:#C39BD3 "> Adding colorimetry support to libcamera's GStreamer source element. </span>
-Colorimetry consists of 4 parameters namely primaries, transfer function, color matrix and range. With colorimetry support libcamerasrc can negotiate the colorimetry. Appropriate colorimetry is decided in the libcamerasrc by mapping the four identifiers of ColorSpace to the corresponding identifiers in GStreamer and deciding on appropriate ColorSpace corresponding to the colorimetry requested by the neighbouring element in the gstreamer pipeline.
+Colorimetry consists of 4 parameters namely primaries, transfer function, color matrix and range. With colorimetry support libcamerasrc can negotiate the colorimetry with the peer elements. Appropriate colorimetry is decided in the libcamerasrc by mapping the four identifiers of ColorSpace to the corresponding identifiers in GStreamer and deciding on appropriate ColorSpace corresponding to the colorimetry requested by the neighbouring element in the gstreamer pipeline.
 
 The following colorimetry negotiation support was added to libcamerasrc. 
 ### <span style="color:#F1948A "> Single Colorimetry Support </span>
 
-The neighbouring element requests the colorimetry it wants/prefers by exposing it on its pads.And libcamerasrc decides on the colorimetry. This patch adds support to work with single colorimetry.
+The neighbouring element requests the colorimetry it wants/prefers by exposing it on its pads, libcamerasrc decides on the colorimetry. This patch adds support to work with single colorimetry.
 
 <span style="color:#FC0575 ">To test single colorimetry example using caps filter:</span>
 
@@ -73,7 +73,7 @@ gst-launch-1.0 libcamerasrc ! video/x-raw,framerate=30/1 ! glimagesink
 
 2. [Provide multiple colorimetry support](https://patchwork.libcamera.org/patch/17174/)
 
-3. [Provide framerate support for libcamerasrc](https://patchwork.libcamera.org/patch/17307/)
+3. [Provide framerate support for libcamerasrc](https://patchwork.libcamera.org/patch/17370/)
 
 ## <span style="color:#98D435"> Conclusion </span>
 I am very grateful to Google Summer Of Code and Libcamera for giving me this opportunity to contribute to the open source community. I have learned a lot of things that will help me in my future endeavors. It was a great experience working with libcamera. I would like to thank my mentors Vedant and Umang for helping me out whenever I was stuck. I would also like to thank other members of libcamera organization for participating in the discussion and helping me. I will continue to work on this project and contribute in solving bugs, testing and implementing additional features if required.
