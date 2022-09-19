@@ -71,7 +71,7 @@ gst-launch-1.0 libcamerasrc ! video/x-raw,framerate=30/1 ! glimagesink
 
 1. [Provide colorimetry <> ColorSpace mappings](https://git.libcamera.org/libcamera/libcamera.git/commit/?id=fc9783acc6083a59fae8bca1ce49635e59afa355)
 
-2. [Provide multiple colorimetry support](https://patchwork.libcamera.org/patch/17174/)
+2. [Provide multiple colorimetry support](https://patchwork.libcamera.org/patch/17379/)
 
 3. [Provide framerate support for libcamerasrc](https://patchwork.libcamera.org/patch/17370/)
 
