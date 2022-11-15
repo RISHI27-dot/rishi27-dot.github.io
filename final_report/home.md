@@ -71,9 +71,11 @@ gst-launch-1.0 libcamerasrc ! video/x-raw,framerate=30/1 ! glimagesink
 
 1. [Provide colorimetry <> ColorSpace mappings](https://git.libcamera.org/libcamera/libcamera.git/commit/?id=fc9783acc6083a59fae8bca1ce49635e59afa355)
 
-2. [Provide multiple colorimetry support](https://patchwork.libcamera.org/patch/17379/)
+2. [Do not expose the caps before configuring the camera](https://git.libcamera.org/libcamera/libcamera.git/commit/?id=872588301fe6badb4b22cd8d16ab094753138b52)
 
-3. [Provide framerate support for libcamerasrc](https://patchwork.libcamera.org/patch/17370/)
+3. [Provide framerate support for libcamerasrc](https://git.libcamera.org/libcamera/libcamera.git/commit/?id=ccfe0a1af77c3d13e81a913b25206d6a4a4747e4)
+
+4. [Provide multiple colorimetry support](https://patchwork.libcamera.org/patch/17379/)
 
 ## <span style="color:#98D435"> Conclusion </span>
 I am very grateful to Google Summer Of Code and Libcamera for giving me this opportunity to contribute to the open source community. I have learned a lot of things that will help me in my future endeavors. It was a great experience working with libcamera. I would like to thank my mentors Vedant and Umang for helping me out whenever I was stuck. I would also like to thank other members of libcamera organization for participating in the discussion and helping me. I will continue to work on this project and contribute in solving bugs, testing and implementing additional features if required.
