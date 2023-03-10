@@ -6,8 +6,17 @@ title: About Me
     <img src="/assets/Photo.png" alt="gsoc_icon" width="300" style="padding: 10px"/>
 </div>
 <br>
-Hey, I am Rishikesh Donadkar. I am a Third Year student at VJTI, Mumbai. I am a tech enthusiast and am interested in many fields of engineering like embedded-systems, compilers, operating systems, AI, Machine Learning, Computer Vision, Robotics etc. Currently I am working as a Google Summer of Code contributor to know more visit [GSoC](/gsoc) page.
-<br>
+Hello! My name is Rishikesh Donadkar, and I am currently in my pre-final year of studying at VJTI in Mumbai. 
 
+I have a strong passion for technology and am particularly interested in the fields of engineering such as Embedded Systems, Compilers, Operating Systems, and Robotics.
+<br><br>
+<br><br>
 <hr>
-Apart from technical stuff I am also good at drawing and painting, My artwork can be found on my [Instagram](https://www.instagram.com/__rishi_donadkar/) profile. Do drop a like if you love my artwork ;)
+Currently I am exploring 
+* OS.
+* Compilers.
+* Embedded-Systems.
+<hr>
+Societies And Clubs
+* [Society of Robotics and Automation](https://sravjti.in/)
+<br>
