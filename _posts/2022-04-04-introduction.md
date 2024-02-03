@@ -28,6 +28,6 @@ I am a final-year student at VJTI, Mumbai. I am an [artist](https://www.instagra
 
 My motivation to learn new technologies and enhance my skills stems from the belief that true engineering excellence lies in the ability to create refined products and projects through the practical application of theoretical knowledge. 
 
-I aspire to be recognized as the **greatest engineers the world has ever seen**.
+I aspire to be recognized as the **greatest engineer the world has ever seen**.
 
 <br>
