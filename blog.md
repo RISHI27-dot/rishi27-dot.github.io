@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## GSOC
+## GSoC 2022
 <div style="background-color:#e0ba9d;padding:20px;border-style: dotted">
 	<a href="/gsoc/selection_prep">GSoC '22 Prep</a>
 </div>
