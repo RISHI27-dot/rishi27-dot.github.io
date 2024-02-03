@@ -23,8 +23,7 @@ layout: default
 
 ## Non-Technical
 
-<div style="background-color:#612302
-;padding:10px;border-style: dotted">
+<div style="background-color:#343434 ;padding:10px;border-style: dotted">
 	<a href="/blogs/non-technical/code_navigation_and_reading.md">Code Reading and Navigation</a>
 </div>
 <hr>
