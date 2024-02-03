@@ -33,8 +33,8 @@ sass:
 # Specify the author for blog posts
 author:
   name: Rishikesh Donadkar
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  # url: https://twitter.com/mdo
+  email: rishikeshdonadkar@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -44,7 +44,7 @@ nav:
   - title: About
     url: /about
 
-  - title: Blog
+  - title: Blogs
     url: /blog
 
   - title: GSoC'22
