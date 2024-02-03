@@ -3,12 +3,22 @@ layout: page
 title: Contacts
 ---
 
-<hr>
-## Email
-Personal:
+# Contact Information
 
-rishikeshdonadkar@gmail.com
+## General Inquiries
 
-Official:
+**Email:** rishikeshdonadkar@gmail.com
 
-rvdonadkar_b20@et.vjti.ac.in
+**Phone:** 9623920069
+
+## Social Media
+
+**LinkedIn:** [Rishikesh Donadkar](https://www.linkedin.com/in/rishikesh-donadkar-a75320228/)
+
+<!-- ## Feedback
+
+We appreciate your feedback. Please feel free to reach out to us with any comments or suggestions.
+
+- **Feedback Form:** [Feedback Form](https://yourwebsite.com/feedback)
+
+--- -->
