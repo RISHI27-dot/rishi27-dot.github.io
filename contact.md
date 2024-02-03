@@ -3,8 +3,6 @@ layout: page
 title: Contacts
 ---
 
-# Contact Information
-
 ## General Inquiries
 
 **Email:** rishikeshdonadkar@gmail.com
