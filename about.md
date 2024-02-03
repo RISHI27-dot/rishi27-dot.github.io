@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 <div class="row" style="float: left; padding: 10px">
-    <img src="/assets/Rishikesh.JPG" alt="gsoc_icon" width="300" style="padding: 10px"/>
+    <img src="/assets/Rishikesh2.JPG" alt="gsoc_icon" width="300" style="padding: 10px"/>
 </div>
 <br>
 Hello! My name is Rishikesh Donadkar, and I am currently in my pre-final year of studying at VJTI in Mumbai.
