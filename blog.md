@@ -17,14 +17,14 @@ layout: default
 ## Technical
 
 <div style="background-color:#3b3c36;padding:15px;border-style: dotted">
-	<a href="/blogs/technical/embedded_systems.md">Embedded Systems</a>
+	<a href="blogs/technical/embedded_systems">Embedded Systems</a>
 </div>
 <hr>
 
 ## Non-Technical
 
 <div style="background-color:#343434 ;padding:10px;border-style: dotted">
-	<a href="/blogs/non-technical/code_navigation_and_reading.md">Code Reading and Navigation</a>
+	<a href="blogs/non-technical/code_navigation_and_reading">Code Reading and Navigation</a>
 </div>
 <hr>
 
