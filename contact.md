@@ -9,9 +9,12 @@ title: Contacts
 
 **Phone:** 9623920069
 
-## Social Media
+## Links
 
 **LinkedIn:** [Rishikesh Donadkar](https://www.linkedin.com/in/rishikesh-donadkar-a75320228/)
+
+**GitHub:** [RISHI27-dot](https://github.com/RISHI27-dot)
+
 
 <!-- ## Feedback
 
