@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contacts
+# title: Contacts
 ---
 
 <!-- **Email:** rishikeshdonadkar@gmail.com
