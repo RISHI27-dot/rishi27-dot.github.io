@@ -25,7 +25,6 @@ I am a final-year student at VJTI, Mumbai. I am an [artist](https://www.instagra
 I love to delve into the intricacies of computing which has led me to pursue a career as a system software engineer. Additionally, I find fulfillment in working within fields revolving around system software such as [Robotics](https://sravjti.in/), Machine Learning, AI, and High-Performance Computing.
 
 <br>
-
 My motivation to learn new technologies and enhance my skills stems from the belief that true engineering excellence lies in the ability to develop technologies through the practical application of theoretical knowledge. 
 
 I aspire to be recognized as the **greatest engineer the world has ever seen**.
