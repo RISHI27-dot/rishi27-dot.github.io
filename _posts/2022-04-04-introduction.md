@@ -28,6 +28,6 @@ I love to delve into the intricacies of computing which has led me to pursue a c
 
 My motivation to learn new technologies and enhance my skills stems from the belief that true engineering excellence lies in the ability to develop technologies through the practical application of theoretical knowledge. 
 
-I aspire to be recognized as the **greatest engineer the world has ever seen**.
+<!-- I aspire to be recognized as the **greatest engineer the world has ever seen**. -->
 
 <br>
