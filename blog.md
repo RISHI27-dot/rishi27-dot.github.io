@@ -26,7 +26,7 @@ layout: default
 <br>
 <br>
 
-## Non-Technical
+## Meat-Technical
 <div style="background-color:#343434 ;padding:10px;border-style: dotted">
 	<a href="/blogs/non-technical/code_navigation_and_reading">Code Reading and Navigation</a>
 </div>
